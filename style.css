@@ -1,0 +1,19 @@
+
+.new{
+    width: 45%;
+    height: 660px;
+    background-color: white;
+margin: auto;
+margin-top: 40px;
+border-radius: 10px;
+}
+.containe{
+    background: linear-gradient(to right, rgb(45, 160, 255), rgb(213, 60, 255));
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+}
+.hg{
+    width: 80%;
+    margin: auto;
+}
